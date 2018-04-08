@@ -5,10 +5,10 @@ Time spent: **X** hours spent in total
 > Objective: Identify vulnerabilities in three different versions of the Globitek website: blue, green, and red.
 
 The six possible exploits are:
-* Username Enumeration
-* Insecure Direct Object Reference (IDOR)
+* Username Enumeration X
+* Insecure Direct Object Reference (IDOR) X
 * SQL Injection (SQLi)
-* Cross-Site Scripting (XSS)
+* Cross-Site Scripting (XSS) X
 * Cross-Site Request Forgery (CSRF)
 * Session Hijacking/Fixation
 
