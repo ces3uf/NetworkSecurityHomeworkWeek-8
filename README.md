@@ -20,7 +20,7 @@ Vulnerability #1: SQL Injection
 <img src="SQLInjection.gif" width="800">
 
 Vulnerability #2: Session Hijaking/Fixation
-<img src="SessionHijaking.gif" width="800">
+<img src="SessionHijacking.gif" width="800">
 
 
 ## Green
