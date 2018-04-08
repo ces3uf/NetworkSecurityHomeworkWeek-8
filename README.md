@@ -9,7 +9,7 @@ The six possible exploits are:
 * Insecure Direct Object Reference (IDOR) X
 * SQL Injection (SQLi)
 * Cross-Site Scripting (XSS) X
-* Cross-Site Request Forgery (CSRF)
+* Cross-Site Request Forgery (CSRF) X
 * Session Hijacking/Fixation
 
 Each version of the site has been given two of the six vulnerabilities. (In other words, all six of the exploits should be assignable to one of the sites.)
